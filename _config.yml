@@ -3,3 +3,5 @@ description: "Ph.D. Researcher in AI/ML | Computer Vision | Explainable AI"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+
+include: ["_pages"]
