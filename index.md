@@ -22,7 +22,7 @@ I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, 
 ## 📖 Featured Publications
 📜 **AI for Rheological Property Prediction** – *Gels, 2024* [[DOI](https://doi.org/10.3390/gels10100660)]  
 📜 **Deep Learning for Early Mesoderm Cells** – *Cells, 2024* [[DOI](https://doi.org/10.3390/cells13060534)]  
-📜 **Hybrid AI for TRC Iden** – *BBRC, 2023* [[DOI](https://doi.org/10.1016/j.bbrc.2023.08.015)]
+📜 **Hybrid AI for TRC Identification** – *BBRC, 2023* [[DOI](https://doi.org/10.1016/j.bbrc.2023.08.015)]
 
 ## 🚀 Featured Projects
 - **Generative AI for Material Composition Prediction** [GitHub](https://github.com/sakibmohammad/hydrogel_rheology_project) [HF Space](https://huggingface.co/spaces/sakibmohammad/Hydrogel_rheology_deep_learning_prediction)
