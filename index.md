@@ -5,15 +5,14 @@ title: "Welcome to My Website"
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        # Hello, My name is Sakib Mohammad 👋
-
+        <h1>Hello, My name is Sakib Mohammad 👋</h1>
         🎓 **Ph.D. Candidate in Electrical & Computer Engineering**  
         🔬 **AI/ML Researcher | Computer Vision | Explainable AI**  
     </div>
     <div style="flex: 1; text-align: right;">
-        <img src="assets/profile.jpg" alt="Sakib Mohammad" width="150" style="border-radius: 50%;">
+        <img src="/assets/images/profile.jpg" alt="Sakib Mohammad" style="border-radius: 50%; width: 150px; height: 150px;">
     </div>
-</div> 
+</div>
 
 ## 🔍 About Me
 I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME) to solve problems in biological sciences. My doctoral research focuses on identifying and classifying early differentiated germ layers using computer vision models and interpretability techniques. I also explore NLP applications in AI, including text analysis and document classification.
