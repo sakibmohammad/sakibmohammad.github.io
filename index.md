@@ -1,22 +1,45 @@
 ---
-layout: home
+layout: single_page
 title: "Welcome to My Website"
-author: "Sakib Mohammad"
 permalink: /
 ---
 
-# Hello, I'm Sakib Mohammad 👋
+<section id="about" class="section">
+    <div class="container">
+        <h1>Hi, I'm Sakib Mohammad 👋</h1>
+        <p>🎓 Ph.D. Candidate in Electrical & Computer Engineering</p>
+        <p>🔬 AI/ML Researcher | Computer Vision | Generative AI | Explainable AI</p>
+        <p>I apply deep learning, generative AI, and explainable AI to solve biomedical and engineering problems.</p>
+    </div>
+</section>
 
-🎓 **Ph.D. Candidate in Electrical & Computer Engineering**  
-🔬 **AI/ML Researcher | Computer Vision | Explainable AI**  
+<section id="projects" class="section">
+    <div class="container">
+        <h2>🚀 Featured Projects</h2>
+        <ul>
+            <li>Deep Learning for Early Mesoderm Cells Classification</li>
+            <li>Generative AI for Material Composition Prediction</li>
+            <li>Hybrid AI for Tumor Cells Identification</li>
+            <li>NLP for Plagiarism Detection & Sentiment Analysis</li>
+        </ul>
+    </div>
+</section>
 
-## 🔍 About Me
-I apply deep learning and explainable AI to solve biomedical and engineering problems.
+<section id="publications" class="section">
+    <div class="container">
+        <h2>📄 Publications</h2>
+        <p>📜 <strong>Deep Learning for Early Mesoderm Cells</strong> – <em>Cells, 2024</em> [<a href="https://doi.org/10.3390/cells13060534" target="_blank">DOI</a>]</p>
+        <p>📜 <strong>AI for Rheological Property Prediction</strong> – <em>Gels, 2024</em> [<a href="https://doi.org/10.3390/gels10100660" target="_blank">DOI</a>]</p>
+        <p>📜 <strong>Hybrid AI for Tumor Cells</strong> – <em>BBRC, 2023</em> [<a href="https://doi.org/10.1016/j.bbrc.2023.08.015" target="_blank">DOI</a>]</p>
+    </div>
+</section>
 
-## 🚀 Featured Projects
-- **Deep Learning for Early Mesoderm Cells**  
-- **Generative AI for Material Composition Prediction**  
-- **NLP for Plagiarism Detection & Sentiment Analysis**
-
-## 🌎 Connect with Me
-[Email](mailto:sakibmohammad1994@gmail.com) | [GitHub](https://github.com/sakibmohammad) | [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)
+<section id="contact" class="section">
+    <div class="container">
+        <h2>📬 Contact</h2>
+        <p>📧 Email: [sakibmohammad1994@gmail.com](mailto:sakibmohammad1994@gmail.com)</p>
+        <p>🔗 LinkedIn: [sakibmohammad1](https://www.linkedin.com/in/sakibmohammad1)</p>
+        <p>💻 GitHub: [sakibmohammad](https://github.com/sakibmohammad)</p>
+        <p>📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)</p>
+    </div>
+</section>
