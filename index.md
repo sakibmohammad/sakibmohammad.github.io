@@ -11,7 +11,7 @@ title: "Welcome to My Website"
 ## 🔍 About Me
 I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME) to solve problems in biological sciences. My doctoral research focuses on identifying and classifying early differentiated germ layers using computer vision models and interpretability techniques. I also explore NLP applications in AI, including text analysis and document classification.
 
-### 🛠 Technical Skills
+## 🛠 Technical Skills
 - **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers. 
 - **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.  
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, TensorBoard. 
@@ -29,5 +29,5 @@ I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, 
 - **Deep Learning for Early Mesoderm Cells** [GitHub](https://github.com/sakibmohammad/EB_mesoderm)   
 - **NLP for Plagiarism Detection & Sentiment Analysis** [GitHub](https://github.com/sakibmohammad/NLP_Projects)
 
-## 🌎 Connect Me
+## 🌎 Connect with Me
 [Email](mailto:sakibmohammad1994@gmail.com) | [GitHub](https://github.com/sakibmohammad) | [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)
