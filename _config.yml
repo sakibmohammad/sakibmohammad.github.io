@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: "Sakib Mohammad"
-description: "Ph.D. Researcher in AI/ML | Computer Vision | Generative AI | Explainable AI"
+description: "Ph.D. Researcher in AI/ML | Computer Vision | Explainable AI"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
