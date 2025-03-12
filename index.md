@@ -3,14 +3,16 @@ layout: default
 title: "Welcome to My Website"
 ---
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h1>Hello, My name is Sakib Mohammad 👋</h1>
-        🎓 **Ph.D. Candidate in Electrical & Computer Engineering**  
-        🔬 **AI/ML Researcher | Computer Vision | Explainable AI**  
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+        <h1 style="margin-bottom: 10px;">Hello, My name is Sakib Mohammad 👋</h1>
+        <p style="font-size: 1.2em; line-height: 1.5;">
+            🎓 <strong>Ph.D. Candidate in Electrical & Computer Engineering</strong><br>
+            🔬 <strong>AI/ML Researcher | Computer Vision | Explainable AI</strong>
+        </p>
     </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="/assets/images/profile.jpg" alt="Sakib Mohammad" style="border-radius: 50%; width: 150px; height: 150px;">
+    <div style="flex: 0 0 auto;">
+        <img src="/assets/images/profile.jpg" alt="Sakib Mohammad" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 </div>
 
