@@ -1,5 +1,5 @@
 ---
-layout: single_page
+layout: default
 title: "Welcome to My Website"
 hyperlink: /
 ---
