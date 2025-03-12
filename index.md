@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Welcome to My Website"
-hyperlink: /
 ---
 
 # Hello, My name is Sakib Mohammad 👋
