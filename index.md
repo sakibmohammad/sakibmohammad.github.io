@@ -1,47 +1,34 @@
 ---
 layout: single_page
 title: "Welcome to My Website"
-permalink: /
+hyperlink: /
 ---
 
-<section id="about" class="section">
-    <div class="container">
-        <h1>Hello, My name is Sakib Mohammad 👋</h1>
-        <p>🎓 Ph.D. Candidate in Electrical & Computer Engineering</p>
-        <p>🔬 AI/ML Researcher | Computer Vision | Explainable AI</p>
-        <p>I apply deep learning and explainable AI to solve biomedical and engineering problems.</p>
-    </div>
-</section>
+# Hello, My name is Sakib Mohammad 👋
 
-<section id="projects" class="section">
-    <div class="container">
-        <h2>🚀 Featured Projects</h2>
-        <ul>
-            <li>Generative AI for Material Composition Prediction</li>
-            - <a href="[https://github.com/sakibmohammad/material-composition](https://github.com/sakibmohammad/hydrogel_rheology_project)" target="_blank">GitHub</a>  
-            - <a href="[https://huggingface.co/spaces/sakibmohammad/composition-predictor](https://huggingface.co/spaces/sakibmohammad/Hydrogel_rheology_deep_learning_prediction)" target="_blank">HF Space</a></li>
-            <li>Deep Learning for Early Mesoderm Cells Classification</li>
-            <li>Hybrid AI for Tumor Cells Identification</li>
-            <li>NLP for Plagiarism Detection & Sentiment Analysis</li>
-        </ul>
-    </div>
-</section>
+🎓 **Ph.D. Candidate in Electrical & Computer Engineering**  
+🔬 **AI/ML Researcher | Computer Vision | Explainable AI**  
 
-<section id="publications" class="section">
-    <div class="container">
-        <h2>📄 Publications</h2>
-        <p>📜 <strong>Deep Learning for Early Mesoderm Cells</strong> – <em>Cells, 2024</em> [<a href="https://doi.org/10.3390/cells13060534" target="_blank">DOI</a>]</p>
-        <p>📜 <strong>AI for Rheological Property Prediction</strong> – <em>Gels, 2024</em> [<a href="https://doi.org/10.3390/gels10100660" target="_blank">DOI</a>]</p>
-        <p>📜 <strong>Hybrid AI for Tumor Cells</strong> – <em>BBRC, 2023</em> [<a href="https://doi.org/10.1016/j.bbrc.2023.08.015" target="_blank">DOI</a>]</p>
-    </div>
-</section>
+## 🔍 About Me
+I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME) to solve problems in biological sciences. My doctoral research focuses on identifying and classifying early differentiated germ layers using computer vision models and interpretability techniques. I also explore NLP applications in AI, including text analysis and document classification.
 
-<section id="contact" class="section">
-    <div class="container">
-        <h2>📬 Contact</h2>
-        <p>📧 Email: [sakibmohammad1994@gmail.com](mailto:sakibmohammad1994@gmail.com)</p>
-        <p>🔗 LinkedIn: [sakibmohammad1](https://www.linkedin.com/in/sakibmohammad1)</p>
-        <p>💻 GitHub: [sakibmohammad](https://github.com/sakibmohammad)</p>
-        <p>📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)</p>
-    </div>
-</section>
+### 🛠 Technical Skills
+- **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers. 
+- **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, TensorBoard. 
+- **Cloud & Deployment**: AWS, Google Colab, HF Spaces, Streamlit, Gradio. 
+- **Programming & Database**: Python, MATLAB, C, SQL (PostgreSQL), Git.
+-  **Image Processing & Analysis**: ImageJ, LasX.
+
+## 📖 Featured Publications
+📜 **AI for Rheological Property Prediction** – *Gels, 2024* [[DOI](https://doi.org/10.3390/gels10100660)]  
+📜 **Deep Learning for Early Mesoderm Cells** – *Cells, 2024* [[DOI](https://doi.org/10.3390/cells13060534)]  
+📜 **Hybrid AI for TRC Iden** – *BBRC, 2023* [[DOI](https://doi.org/10.1016/j.bbrc.2023.08.015)]
+
+## 🚀 Featured Projects
+- **Generative AI for Material Composition Prediction** [GitHub](https://github.com/sakibmohammad/hydrogel_rheology_project) [HF Space](https://huggingface.co/spaces/sakibmohammad/Hydrogel_rheology_deep_learning_prediction)
+- **Deep Learning for Early Mesoderm Cells** [GitHub](https://github.com/sakibmohammad/EB_mesoderm)   
+- **NLP for Plagiarism Detection & Sentiment Analysis** [GitHub](https://github.com/sakibmohammad/NLP_Projects)
+
+## 🌎 Connect Me
+[Email](mailto:sakibmohammad1994@gmail.com) | [GitHub](https://github.com/sakibmohammad) | [LinkedIn](https://www.linkedin.com/in/sakibmohammad1) | [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en)
