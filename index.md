@@ -6,10 +6,10 @@ permalink: /
 
 <section id="about" class="section">
     <div class="container">
-        <h1>Hi, I'm Sakib Mohammad 👋</h1>
+        <h1>Hello, My name is Sakib Mohammad 👋</h1>
         <p>🎓 Ph.D. Candidate in Electrical & Computer Engineering</p>
-        <p>🔬 AI/ML Researcher | Computer Vision | Generative AI | Explainable AI</p>
-        <p>I apply deep learning, generative AI, and explainable AI to solve biomedical and engineering problems.</p>
+        <p>🔬 AI/ML Researcher | Computer Vision | Explainable AI</p>
+        <p>I apply deep learning and explainable AI to solve biomedical and engineering problems.</p>
     </div>
 </section>
 
@@ -17,8 +17,10 @@ permalink: /
     <div class="container">
         <h2>🚀 Featured Projects</h2>
         <ul>
-            <li>Deep Learning for Early Mesoderm Cells Classification</li>
             <li>Generative AI for Material Composition Prediction</li>
+            - <a href="[https://github.com/sakibmohammad/material-composition](https://github.com/sakibmohammad/hydrogel_rheology_project)" target="_blank">GitHub</a>  
+            - <a href="[https://huggingface.co/spaces/sakibmohammad/composition-predictor](https://huggingface.co/spaces/sakibmohammad/Hydrogel_rheology_deep_learning_prediction)" target="_blank">HF Space</a></li>
+            <li>Deep Learning for Early Mesoderm Cells Classification</li>
             <li>Hybrid AI for Tumor Cells Identification</li>
             <li>NLP for Plagiarism Detection & Sentiment Analysis</li>
         </ul>
