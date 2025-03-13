@@ -19,6 +19,15 @@ title: "Welcome to My Website"
 ## 🔍 About Me
 I apply deep learning, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME) to solve problems in biological sciences. My doctoral research focuses on identifying and classifying early differentiated germ layers using computer vision models and interpretability techniques. I also explore NLP applications in AI, including text analysis and document classification.
 
+<div style="margin-top: 20px;">
+    <a href="/assets/files/CV_SM.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-size: 1em;">
+        📄 Download CV
+    </a>
+    <a href="/assets/files/resume_SM.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 1em; margin-left: 10px;">
+        📜 Download Resume
+    </a>
+</div>
+
 ## 🛠 Technical Skills
 - **ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, NLTK, spaCy, HF Transformers. 
 - **Data Analysis**: NumPy, Pandas, SciPy, Jupyter Notebook.  
