@@ -28,6 +28,7 @@ title: "Sakib Mohammad - Fairmont State University"
 
 ## About Me
 I am an Assistant Professor in the Department of Electronics Engineering Technology at Fairmont State University.  
+
 My teaching covers courses such as **Circuit Analysis, Digital Electronics, and Microcontrollers**.  
 
 My research focuses on applying **deep learning, computer vision, generative AI (VAE, CVAE), and explainable AI (Grad-CAM, LIME)** to solve problems in **biological and material sciences**. I have published peer-reviewed journal and conference papers on cellular mechanobiology, cancer classification, and material property prediction.
