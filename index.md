@@ -1,89 +1,35 @@
----
-layout: default
-title: "Home"
-permalink: /
----
+theme: jekyll-theme-cayman
 
-<div class="home-intro">
+title: "Sakib Mohammad, Ph.D."
 
-<div>
+description: >
+  Assistant Professor and Program Coordinator of Electronics Engineering
+  Technology at Fairmont State University
 
-## About Me
+author: "Sakib Mohammad"
 
-I am an Assistant Professor of Electronics Engineering Technology at Fairmont State University. I received my Ph.D. in Electrical and Computer Engineering from Southern Illinois University Carbondale in 2025. Beginning in August 2026, I also serve as the Program Coordinator for Electronics Engineering Technology.
+url: "https://sakibmohammad.github.io"
+baseurl: ""
 
-My research applies machine learning and computer vision to microscopy, cellular mechanobiology, materials data, and embedded systems. My teaching covers circuits, electronics, digital systems, microcontrollers, robotics, and senior design.
+github_username: sakibmohammad
 
-</div>
+show_downloads: false
 
-<div class="info-card">
+navigation:
+  - title: "Home"
+    url: "/"
 
-### Contact
+  - title: "Research"
+    url: "/research"
 
-**Email**  
-[smohammad@fairmontstate.edu](mailto:smohammad@fairmontstate.edu)
+  - title: "Publications"
+    url: "/publications"
 
-**Phone**  
-(304) 367-4145
+  - title: "Teaching"
+    url: "/teaching"
 
-**Office**  
-Fairmont State University
+  - title: "Service & Outreach"
+    url: "/service"
 
-[LinkedIn](https://www.linkedin.com/in/sakibmohammad1){:target="_blank"} ·
-[Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en){:target="_blank"} ·
-[GitHub](https://github.com/sakibmohammad){:target="_blank"}
-
-</div>
-
-</div>
-
-
-## Research Areas
-
-<div class="research-tags">
-
-<span class="research-tag">Microscopy Image Analysis</span>
-<span class="research-tag">Interpretable Deep Learning</span>
-<span class="research-tag">Computer Vision</span>
-<span class="research-tag">Multimodal Learning</span>
-<span class="research-tag">Knowledge Distillation</span>
-<span class="research-tag">Generative AI</span>
-<span class="research-tag">Agentic AI</span>
-<span class="research-tag">Embedded AI</span>
-
-</div>
-
-
-<div class="home-grid">
-
-<div class="home-card">
-
-### Research
-
-Deep learning for biological imaging, materials data, and embedded computer vision.
-
-<a class="card-link" href="/research">Research projects →</a>
-
-</div>
-
-<div class="home-card">
-
-### Publications
-
-Peer-reviewed work in microscopy, mechanobiology, materials, and machine learning.
-
-<a class="card-link" href="/publications">Publication list →</a>
-
-</div>
-
-<div class="home-card">
-
-### Teaching
-
-Undergraduate courses in circuits, electronics, digital systems, microcontrollers, and robotics.
-
-<a class="card-link" href="/teaching">Teaching experience →</a>
-
-</div>
-
-</div>
+  - title: "CV"
+    url: "/assets/files/CV_SM_.pdf"
