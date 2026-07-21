@@ -1,3 +1,38 @@
 theme: jekyll-theme-cayman
-title: "Sakib Mohammad"
-description: "Assisant Professor of Electronics Tech @ Fairmont State University"
+
+title: "Sakib Mohammad, Ph.D."
+
+description: >
+  Assistant Professor and Program Coordinator of Electronics Engineering
+  Technology at Fairmont State University
+
+author: "Sakib Mohammad"
+
+url: "https://sakibmohammad.github.io"
+baseurl: ""
+
+github_username: sakibmohammad
+
+show_downloads: false
+
+navigation:
+  - title: "Home"
+    url: "/"
+
+  - title: "Research"
+    url: "/research"
+
+  - title: "Publications"
+    url: "/publications"
+
+  - title: "Teaching"
+    url: "/teaching"
+
+  - title: "Grants"
+    url: "/grants"
+
+  - title: "Service & Outreach"
+    url: "/service"
+
+  - title: "CV"
+    url: "/assets/files/CV_SM_.pdf"
