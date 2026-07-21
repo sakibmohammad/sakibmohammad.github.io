@@ -12,7 +12,7 @@ permalink: /
 
 I am an Assistant Professor of Electronics Engineering Technology at Fairmont State University. I received my Ph.D. in Electrical and Computer Engineering from Southern Illinois University Carbondale in 2025.
 
-My work is primarily in artificial intelligence, computer vision, biological image analysis, materials modeling, and embedded systems. I also teach undergraduate courses in circuits, electronics, digital systems, microcontrollers, and robotics.
+My research focuses on machine learning and computer vision for microscopy, cellular mechanobiology, materials data, and embedded systems.
 
 </div>
 
@@ -51,50 +51,5 @@ Fairmont State University
 <span class="research-tag">Generative AI</span>
 <span class="research-tag">Agentic AI</span>
 <span class="research-tag">Embedded AI</span>
-
-</div>
-
-
-<div class="home-grid">
-
-<div class="home-card" markdown="1">
-
-### Research
-
-Current and previous research projects in microscopy, cellular mechanobiology, materials data, and embedded computer vision.
-
-<a class="card-link" href="{{ '/research/' | relative_url }}">View research →</a>
-
-</div>
-
-<div class="home-card" markdown="1">
-
-### Publications
-
-Journal articles, conference papers, manuscripts, and preprints.
-
-<a class="card-link" href="{{ '/publications/' | relative_url }}">View publications →</a>
-
-</div>
-
-<div class="home-card" markdown="1">
-
-### Teaching
-
-Courses and teaching experience in circuits, electronics, digital systems, microcontrollers, and robotics.
-
-<a class="card-link" href="{{ '/teaching/' | relative_url }}">View teaching →</a>
-
-</div>
-
-<div class="home-card" markdown="1">
-
-### Service & Outreach
-
-Institutional service, professional reviewing, student mentoring, and STEM outreach.
-
-<a class="card-link" href="{{ '/service/' | relative_url }}">View service and outreach →</a>
-
-</div>
 
 </div>
