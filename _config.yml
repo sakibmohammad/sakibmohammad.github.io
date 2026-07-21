@@ -11,7 +11,7 @@ author: "Sakib Mohammad"
 url: "https://sakibmohammad.github.io"
 baseurl: ""
 
-github_username: sakibmohammad
+github_username: "sakibmohammad"
 
 show_downloads: false
 
@@ -20,16 +20,16 @@ navigation:
     url: "/"
 
   - title: "Research"
-    url: "/research"
+    url: "/research/"
 
   - title: "Publications"
-    url: "/publications"
+    url: "/publications/"
 
   - title: "Teaching"
-    url: "/teaching"
+    url: "/teaching/"
 
-  - title: "Service & Outreach"
-    url: "/service"
+  - title: "Service and Outreach"
+    url: "/service/"
 
   - title: "CV"
     url: "/assets/files/CV_SM_.pdf"
