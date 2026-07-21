@@ -16,7 +16,7 @@ permalink: /research/
 
 ## Current and Recent Projects
 
-<div class="entry-card">
+<div class="entry-card" markdown="1">
 
 ### Agentic AI for Hydrogel Data
 
@@ -24,15 +24,15 @@ Development of an agent-based framework for hydrogel data analysis, regression, 
 
 </div>
 
-<div class="entry-card">
-
+<div class="entry-card" markdown="1">
+  
 ### Cross-Modal Tissue Segmentation
 
 Development of a knowledge-distillation method for single-channel tissue segmentation using information from foundation-model predictions and multimodal microscopy data.
 
 </div>
 
-<div class="entry-card">
+<div class="entry-card" markdown="1">
 
 ### Microscopy Image Upsampling
 
@@ -40,7 +40,7 @@ Evaluation of interpolation and deep-learning upsampling methods based on their 
 
 </div>
 
-<div class="entry-card">
+<div class="entry-card" markdown="1">
 
 ### Embedded Computer Vision
 
