@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Service & Outreach"
-subtitle: "Institutional service, professional service, mentoring, and STEM outreach"
 permalink: /service/
 ---
 
