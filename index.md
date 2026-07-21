@@ -16,40 +16,18 @@ My research focuses on machine learning and computer vision for microscopy, cell
 
 </div>
 
-<div class="info-card" markdown="1">
+<div class="info-card contact-card" markdown="1">
 
 ### Contact
 
-**Email**  
-[smohammad@fairmontstate.edu](mailto:smohammad@fairmontstate.edu)
+**Email:** [smohammad@fairmontstate.edu](mailto:smohammad@fairmontstate.edu)
 
-**Phone**  
-(304) 367-4145
+**Phone:** (304) 367-4145
 
-**Affiliation**  
-Electronics Engineering Technology  
-Fairmont State University
+**Affiliation:** Electronics Engineering Technology, Fairmont State University
 
-[LinkedIn](https://www.linkedin.com/in/sakibmohammad1){:target="_blank" rel="noopener"}  
-[Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en){:target="_blank" rel="noopener"}  
-[GitHub](https://github.com/sakibmohammad){:target="_blank" rel="noopener"}
+**Profiles:** [LinkedIn](https://www.linkedin.com/in/sakibmohammad1){:target="_blank" rel="noopener"} · [Google Scholar](https://scholar.google.com/citations?user=4wFZT0AAAAAJ&hl=en){:target="_blank" rel="noopener"} · [GitHub](https://github.com/sakibmohammad){:target="_blank" rel="noopener"}
 
 </div>
-
-</div>
-
-
-## Research Interests
-
-<div class="research-tags">
-
-<span class="research-tag">Microscopy Image Analysis</span>
-<span class="research-tag">Interpretable Deep Learning</span>
-<span class="research-tag">Computer Vision</span>
-<span class="research-tag">Multimodal Learning</span>
-<span class="research-tag">Knowledge Distillation</span>
-<span class="research-tag">Generative AI</span>
-<span class="research-tag">Agentic AI</span>
-<span class="research-tag">Embedded AI</span>
 
 </div>
