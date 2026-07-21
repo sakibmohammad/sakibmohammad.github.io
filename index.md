@@ -6,7 +6,7 @@ permalink: /
 
 <div class="home-intro">
 
-<div>
+<div markdown="1">
 
 ## About Me
 
@@ -18,7 +18,7 @@ I also participate in undergraduate research mentoring, curriculum development, 
 
 </div>
 
-<div class="info-card">
+<div class="info-card" markdown="1">
 
 ### Contact
 
@@ -59,43 +59,43 @@ Fairmont State University
 
 <div class="home-grid">
 
-<div class="home-card">
+<div class="home-card" markdown="1">
 
 ### Research
 
 My research includes deep learning for microscopy, multimodal image analysis, tissue segmentation, materials modeling, and embedded computer vision.
 
-<a class="card-link" href="/research">View research →</a>
+<a class="card-link" href="{{ '/research/' | relative_url }}">View research →</a>
 
 </div>
 
-<div class="home-card">
+<div class="home-card" markdown="1">
 
 ### Publications
 
 My publications cover cellular mechanobiology, biological image analysis, hydrogel modeling, explainable AI, and machine learning applications.
 
-<a class="card-link" href="/publications">View publications →</a>
+<a class="card-link" href="{{ '/publications/' | relative_url }}">View publications →</a>
 
 </div>
 
-<div class="home-card">
+<div class="home-card" markdown="1">
 
 ### Teaching
 
 I teach undergraduate courses in circuit analysis, digital electronics, microcontrollers, robotics, and related laboratory areas.
 
-<a class="card-link" href="/teaching">View teaching →</a>
+<a class="card-link" href="{{ '/teaching/' | relative_url }}">View teaching →</a>
 
 </div>
 
-<div class="home-card">
+<div class="home-card" markdown="1">
 
 ### Service & Outreach
 
 My service includes program coordination, ABET activities, curriculum updates, journal and conference reviewing, student mentoring, and STEM outreach.
 
-<a class="card-link" href="/service">View service and outreach →</a>
+<a class="card-link" href="{{ '/service/' | relative_url }}">View service and outreach →</a>
 
 </div>
 
@@ -104,7 +104,7 @@ My service includes program coordination, ABET activities, curriculum updates, j
 
 ## Current Roles
 
-<div class="entry-card">
+<div class="entry-card" markdown="1">
 
 ### Fairmont State University
 
@@ -119,7 +119,9 @@ August 2026–Present
 
 ## Recent Work
 
-<div class="entry-card">
+<div class="home-grid">
+
+<div class="home-card" markdown="1">
 
 ### Agentic AI for Hydrogel Data
 
@@ -127,7 +129,7 @@ Development of an agent-based framework for hydrogel data analysis, predictive m
 
 </div>
 
-<div class="entry-card">
+<div class="home-card" markdown="1">
 
 ### Cross-Modal Tissue Segmentation
 
@@ -135,7 +137,7 @@ Development of a knowledge-distillation method for single-channel tissue segment
 
 </div>
 
-<div class="entry-card">
+<div class="home-card" markdown="1">
 
 ### Microscopy Image Upsampling
 
@@ -143,10 +145,12 @@ Evaluation of interpolation and deep-learning upsampling methods based on their 
 
 </div>
 
-<div class="entry-card">
+<div class="home-card" markdown="1">
 
 ### Embedded Object Detection
 
 Development of a Raspberry Pi-based object-detection system for undergraduate research and search-and-rescue training applications.
+
+</div>
 
 </div>
