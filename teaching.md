@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Teaching"
-subtitle: "Circuits, electronics, digital systems, microcontrollers, and robotics"
 permalink: /teaching/
 ---
 
