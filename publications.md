@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Publications"
-subtitle: "Journal articles, conference papers, manuscripts, and preprints"
 permalink: /publications/
 ---
 
