@@ -28,9 +28,6 @@ navigation:
   - title: "Teaching"
     url: "/teaching"
 
-  - title: "Grants"
-    url: "/grants"
-
   - title: "Service & Outreach"
     url: "/service"
 
