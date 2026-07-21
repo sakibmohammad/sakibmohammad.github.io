@@ -21,8 +21,6 @@ Courses taught or assigned include:
 - ELEC 3310 Advanced Microcontrollers
 - ELEC 4402 Senior Design II
 
-My teaching includes lectures, laboratory instruction, circuit construction and troubleshooting, embedded programming, assessment, and project-based activities.
-
 ## Southern Illinois University Carbondale
 
 **Graduate Teaching Assistant, Department of ECE and EET**  
