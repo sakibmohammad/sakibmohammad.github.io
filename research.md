@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research"
-subtitle: "Machine learning, computer vision, microscopy, materials data, and embedded systems"
+subtitle: "Machine learning, computer vision, microscopy, biomimetic materials, and embedded systems"
 permalink: /research/
 ---
 
@@ -42,14 +42,6 @@ Evaluation of interpolation and deep-learning upsampling methods based on their 
 
 <div class="entry-card">
 
-### Multimodal Microscopy with Vision Transformers
-
-Investigation of early token-level fusion of paired microscopy modalities, including phase-contrast and fluorescence images, using a single Vision Transformer.
-
-</div>
-
-<div class="entry-card">
-
 ### Embedded Computer Vision
 
 Development of a Raspberry Pi-based object-detection system for search-and-rescue training, undergraduate research, and classroom demonstrations.
@@ -64,6 +56,6 @@ My doctoral research included:
 - Explainable AI for microscopy image classification
 - Phase-contrast and nuclear image analysis
 - Pancreatic tumor repopulating cell classification
-- Traction-force prediction and substrate-stiffness classification
+- Traction-force prediction and substrate-stiffness prediction
 - Machine learning for composite-material properties
 - Generative modeling of hydrogel formulations
