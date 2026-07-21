@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Research"
-subtitle: "Machine learning, computer vision, microscopy, biomimetic materials, and embedded systems"
 permalink: /research/
 ---
 
