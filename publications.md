@@ -47,7 +47,7 @@ bioRxiv preprint.
 
 Rathnayake, S., **Mohammad, S.**, Tragoudas, S., and Chowdhury, F.  
 *Deep Learning-Based Evaluation Framework for Assessing the Accuracy of Traction Force Microscopy Readouts.*  
-Submitted to *Biophysical Journal*.
+Submitted to *IEEE Access*.
 
 <span class="publication-status">Under Review</span>
 
