@@ -58,11 +58,17 @@
                 aria-label="Main navigation"
             >
 
-                {% assign current_url = page.url | remove: 'index.html' | remove: '.html' %}
+                {% assign current_url = page.url
+                    | remove: 'index.html'
+                    | remove: '.html'
+                %}
 
                 {% for item in site.navigation %}
 
-                    {% assign navigation_url = item.url | remove: 'index.html' | remove: '.html' %}
+                    {% assign navigation_url = item.url
+                        | remove: 'index.html'
+                        | remove: '.html'
+                    %}
 
                     <a
                         href="{{ item.url | relative_url }}"
@@ -94,22 +100,12 @@
 
                 <div class="hero-content">
 
-                    <p class="hero-label">
-                        Artificial Intelligence · Electronics · Education
-                    </p>
-
                     <h1>Sakib Mohammad, Ph.D.</h1>
 
                     <p class="hero-position">
-                        Assistant Professor and Program Coordinator<br>
+                        Assistant Professor<br>
                         Electronics Engineering Technology<br>
                         Fairmont State University
-                    </p>
-
-                    <p class="hero-summary">
-                        My work applies machine learning and computer vision
-                        to microscopy, cellular mechanobiology, materials
-                        data, and embedded systems.
                     </p>
 
                     <div class="hero-links">
